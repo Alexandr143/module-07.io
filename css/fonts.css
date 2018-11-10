@@ -1,0 +1,88 @@
+@font-face{
+    font-family: 'Wisdom - Script';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/wisdom_script_aj-webfont.woff2') format('woff2'), 
+         url('../fonts/wisdom_script_aj-webfont.woff') format('woff');
+}
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/roboto-slab-v7-latin-regular.woff2') format('woff2'), 
+         url('../fonts/roboto-slab-v7-latin-regular.woff') format('woff');
+  }
+@font-face {
+    font-family: 'Monserrat';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/montserrat-v12-latin-200italic.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'Monserrat';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/montserrat-v12-latin-300.woff2') format('woff2'), 
+         url('../fonts/montserrat-v12-latin-300italic woff2') format('woff2');
+ }
+ @font-face {
+    font-family: 'Monserrat';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/montserrat-v12-latin-500.woff2')  format('woff2'), 
+         url('../fonts/montserrat-v12-latin-500italic.woff2')format('woff2');
+  }
+@font-face {
+    font-family: 'Monserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/montserrat-v12-latin-600.woff2') format('woff2'), 
+         url('../fonts/montserrat-v12-latin-600italic.woff2') format('woff2');
+  }
+@font-face {
+    font-family: 'Monserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/montserrat-v12-latin-700.woff2') format('woff2') , 
+         url('../fonts/montserrat-v12-latin-600italic.woff2')  format('woff2');  
+  }
+@font-face {
+    font-family: 'Monserrat';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/montserrat-v12-latin-800.woff2')   format('woff2'),
+         url('../fonts/montserrat-v12-latin-800italic.woff2') format('woff2'),
+  }
+@font-face {
+    font-family: 'Monserrat';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/montserrat-v12-latin-800.woff2')   format('woff2'),
+         url('../fonts/montserrat-v12-latin-800italic.woff2') format('woff2'),
+  }
+@font-face {
+    font-family: 'Droid-Serif';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/droidserif-italic-webfont.woff2') format('woff2'),
+         url('../fonts/droidserif-italic-webfont.woff') format('woff');
+  }
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
