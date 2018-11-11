@@ -9,6 +9,13 @@ html,*{
     margin: 0;
     padding: 0;
 }
+.clearfix::after {
+    content: " ";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
 .wrapper{
     max-width: 960px;
     margin: 0 auto;
@@ -40,7 +47,7 @@ html,*{
 }
 .navigation-block-item{
     list-style: none;
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-family: "Monserrat",sans-serif;
     font-size: 14px;
     font-weight: 400;
